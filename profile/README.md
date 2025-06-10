@@ -4,7 +4,7 @@
 
 # 🗺️ Mapping Apping — Map your App
 
-Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to accelerate **database-driven software development**. Our mission is to help you **visualize, generate, and interact with your application** from your database schema with the power of automation and AI.
+Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to accelerate **database-driven software development**. Our mission is to help you **visualize, generate, and interact with your application** from your database schema with the power of automation and AI. (Implementing: Agentic AI, AI, AI Agent, LLM, RAG)
 
 ---
 
