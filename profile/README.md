@@ -27,6 +27,8 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 - Perfect for onboarding, auditing, and system design.
 
 🌐 Live Demo: [laravel2doc.netlify.app](https://laravel2doc.netlify.app/)
+🌐 GitHub Repo: [Laravel2Doc Repo](https://github.com/Priom7/laravel2doc)
+🌐 npm Package: [npm i @priom7/laravel2doc](https://www.npmjs.com/package/@priom7/laravel2doc)
 
 ---
 
