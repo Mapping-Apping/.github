@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Mapping-Apping/.github/blob/main/profile/mappingapping.png" alt="Mapping Apping - Map your App" width="350">
+</p>
+
 # 🗺️ Mapping Apping — Map your App
 
 Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to accelerate **database-driven software development**. Our mission is to help you **visualize, generate, and interact with your application** from your database schema with the power of automation and AI.
@@ -5,6 +9,10 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 ---
 
 ## 🧰 Tools
+
+<p align="center">
+  <img src="https://github.com/Mapping-Apping/.github/blob/main/profile/laravel2doc.png" alt="Mapping Apping - Map your App" width="150">
+</p>
 
 ### 1. 🔍 Laravel2Doc — Visualize Laravel Projects (Open Source - Available Now)
 
@@ -22,6 +30,10 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Mapping-Apping/.github/blob/main/profile/chatwdata.png" alt="Mapping Apping - Map your App" width="150">
+</p>
+
 ### 2. 💬 Chat With Data — Natural Language to SQL + Analytics
 
 > **Ask questions to your database in plain English.**
@@ -34,6 +46,10 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 🌐 Live Demo: [chat-w-data.netlify.app](https://chat-w-data.netlify.app/)
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Mapping-Apping/.github/blob/main/profile/genapi.png" alt="Mapping Apping - Map your App" width="150">
+</p>
 
 ### 3. ⚙️ GenAPI — Backend API Generator from Schema
 
@@ -52,7 +68,12 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Mapping-Apping/.github/blob/main/profile/bd2ui.png" alt="Mapping Apping - Map your App" width="150">
+</p>
+
 ### 4. 🧱 App UI Builder — Auto-Generate Frontend from DB
+
 
 > **Form + Table + Filter UI generator from your database.**
 
