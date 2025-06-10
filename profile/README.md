@@ -29,6 +29,8 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 🌐 Live Demo: [laravel2doc.netlify.app](https://laravel2doc.netlify.app/)
 🌐 GitHub Repo: [Laravel2Doc Repo](https://github.com/Priom7/laravel2doc)
 🌐 npm Package: [npm i @priom7/laravel2doc](https://www.npmjs.com/package/@priom7/laravel2doc)
+🌐 YouTube: [Video Demo](https://youtu.be/ivZyPlLytCU)
+🌐 Article: [Read Article with Demo](https://medium.com/towardsdev/laravel2doc-generate-sequence-diagrams-from-your-laravel-application-in-seconds-1-2-84bf8ac8a193)
 
 ---
 
@@ -46,6 +48,8 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 - Customizable with domain-specific context.
 
 🌐 Live Demo: [chat-w-data.netlify.app](https://chat-w-data.netlify.app/)
+🌐 YouTube: [Video Demo](https://www.youtube.com/watch?v=-rAxfv7yOQQ)
+🌐 Article: [Read Article with Demo](https://medium.com/towardsdev/building-an-ai-powered-sql-query-system-for-large-scale-databases-fe3bf6e624cb)
 
 ---
 
@@ -67,6 +71,8 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 - Start coding immediately with a complete Laravel backend.
 
 🌐 Live Demo: [genapi.netlify.app](https://genapi.netlify.app/)
+🌐 YouTube: [Video Demo](https://youtu.be/mMCfmGwuCgU)
+🌐 Article: [Read Article with Demo](https://medium.com/towardsdev/instantly-generate-laravel-apis-from-your-database-schema-a-powerful-cli-tool-dcae914b3f24)
 
 ---
 
@@ -87,6 +93,8 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 - Uses context-aware automation based on your schema.
 
 💡 Coming Soon...
+🌐 YouTube: [Video Demo](https://youtu.be/HgiCGLGeoFU)
+🌐 Article: [In Progress]
 
 ---
 
