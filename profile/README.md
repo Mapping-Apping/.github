@@ -22,7 +22,7 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 
 ---
 
-### 2. 💬 Chat With Data — Natural Language to SQL + Analytics
+### 2. 💬 Chat With Data — Natural Language to SQL + Analytics (Agentic AI / AI Agent / RAG)
 
 > **Ask questions to your database in plain English.**
 
