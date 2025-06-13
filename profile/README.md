@@ -15,7 +15,11 @@ Welcome to **Mapping Apping**, a suite of open-source tools purpose-built to acc
 </p>
 
 ### 1. 🔍 Laravel2Doc — Visualize Laravel Projects (Open Source - Available Now)
-
+[![npm version](https://img.shields.io/npm/v/@priom7/laravel2doc?color=blue)](https://www.npmjs.com/package/@priom7/laravel2doc)
+[![npm downloads](https://img.shields.io/npm/dt/@priom7/laravel2doc?label=Downloads&color=green)](https://www.npmjs.com/package/@priom7/laravel2doc)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E=14.0.0-brightgreen)](https://nodejs.org/)
+[![Made by priom7](https://img.shields.io/badge/Made%20by-priom7-blueviolet)](https://github.com/priom7)
 > **Generate complete documentation from your Laravel project codebase.**
 
 - Instantly generate:
